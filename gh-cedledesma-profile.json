@@ -1,0 +1,26 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-07T07:43:49Z",
+  "IdClaims": [
+    {
+      "Claim": "t:ced"
+    },
+    {
+      "Claim": "mdon:@cedled@social.vivaldi.net"
+    },
+    {
+      "Claim": "gh:cedledesma"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "8d69097eb08801b5a9243946",
+    "Timestamp": "2023-04-07T15:24:03Z",
+    "Signature": "1eeed94b7b1addcb37e405a78eddcab34682167d0ab7b6c876d4089e69ad2c70867a543089d0288c40887e33063b6407e3fbeaa5e277041c73fa73baa0bc43539546bc74476c2ae3f8746edb2b77e770f7171fe67211bfca01582a0ab2f08cc3d936374ca0519ed0040ad0461ace20f704d7da2cda363366f65de7d36a3d0705bb660aee03f49ec1d47ea1e4f0f4dbde9f08e66d2cb678a5141c6b8c016b251f77209a5264940b5e089af1a005522884305a14e559071d7b9dd18bde423e95dce19c6482ec8320e1e9415aac3d91380b0539c9c8ffe2a2fd193a54938896b9a5d0cb7921fa27961cdd1d4dc0c3256d34cab66027f5bbda8656422c73d0545521"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "c76b8b0ee11c23ad2ff04de7c4f87534adad438407033a3b82998d0e29132468",
+  "ContentToHash": "v1|gh:cedledesma,mdon:@cedled@social.vivaldi.net,t:ced|2023-04-07T07:43:49Z"
+}
